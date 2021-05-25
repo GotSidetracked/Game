@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Point
+  - Vase
+  - SpeedBoost
+  - Slow
+  - Enemy
+  - Ability
+  - Walls
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Walls
+  - Ground
+  - Lights
+  - Items
+  - Player
+  - Loaders
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Ground
+    uniqueID: 3265448883
+    locked: 0
+  - name: Walls
+    uniqueID: 1369810261
+    locked: 0
+  - name: Lights
+    uniqueID: 3285987531
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

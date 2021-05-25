@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: f4c568373683e3541803c3a913177af0
+  - enabled: 1
+    path: Assets/Scenes/Dungeon/castleDungeonLevel1.unity
+    guid: 5db70eb037e6f2f43b83b72e1cd8f7d5
+  - enabled: 1
+    path: Assets/Scenes/Dungeon/castleDungeonLevel2.unity
+    guid: d5167241bf4d2e1478704286e9c4e462
+  - enabled: 1
+    path: Assets/Scenes/Dungeon/CastleDungeonLevel3.unity
+    guid: 8a085cbfeebc97045bf7fd877f128345
+  - enabled: 1
+    path: Assets/Scenes/Dungeon/CastleDungeonLevel4.unity
+    guid: 054c3ca5799e5af498ece5c817067553
+  - enabled: 1
+    path: Assets/Scenes/Dungeon/CastleDungeonLevel5.unity
+    guid: 44b7336bc471a444c86f8261db29dbc5
+  - enabled: 1
+    path: Assets/Scenes/Dungeon/CastleDungeonLevel6.unity
+    guid: 4228f6777966536489299252392bdd0a
+  - enabled: 1
+    path: Assets/Scenes/Dungeon/CastleDungeonLevel7.unity
+    guid: ea6b1091211bf854c8612c64701c77b8
+  - enabled: 1
+    path: Assets/Scenes/EndScreen.unity
+    guid: 96c0dc54dd560394299ccb3506fe8fb5
+  m_configObjects: {}
